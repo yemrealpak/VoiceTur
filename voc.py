@@ -15,3 +15,4 @@ def speech_tr():
 
     return r.recognize_sphinx(audio)
 
+print("helo")
